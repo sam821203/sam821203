@@ -49,8 +49,3 @@
       alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sam821203&show_icons=true&locale=en&layout=compact"
-    alt="sam821203" /></p>
-
-
