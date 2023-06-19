@@ -59,4 +59,5 @@
     alt="sam821203" /></p>
 
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sam821203&show_icons=true&locale=en" alt="sam821203" /></p>
+    src="[https://github-readme-stats.vercel.app/api?username=sam821203&show_icons=true&locale=en](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sam821203}&theme={default})http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sam821203}&theme={default}" alt="sam821203" /></p>
+
