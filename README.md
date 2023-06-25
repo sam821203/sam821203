@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yu Hao Huang</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
-<img src="https://im.ezgif.com/tmp/ezgif-1-8b5afb094d.webp" align="right" alt="Coding" width="400">
+<img src="https://i.ibb.co/nmzjkY0/white-bird.png" align="right" alt="Coding" width="250">
 
 - 🔭 I’m currently working on **Prompt generator SP**
 
