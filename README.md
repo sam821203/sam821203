@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm YU HAO HUANG</h1>
+<h1 align="center">Hi 👋, I'm Yu Hao Huang</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
-<img src="https://im4.ezgif.com/tmp/ezgif-4-b68382dc39.gif" align="right" alt="Coding" width="400">
+<img src="https://im.ezgif.com/tmp/ezgif-1-8b5afb094d.webp" align="right" alt="Coding" width="400">
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Prompt generator SP**
 
 - 🌱 I’m currently learning **Vue 3**
 
@@ -10,9 +10,6 @@
 
 - 📫 How to reach me **sam821203@yahoo.com.tw**
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
