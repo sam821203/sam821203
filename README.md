@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" /></a>
-  <a href="https://angular.io/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" /></a>
+  <a href="https://angular.io/" rel="nofollow"><img src="https://www.svgrepo.com/show/353396/angular-icon.svg" height="30" alt="angularjs logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>
