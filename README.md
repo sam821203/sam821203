@@ -1,12 +1,9 @@
 <div align="center">
-  <img height="240" src="https://media-hosting.imagekit.io//ba6fba204b3a4416/Screenshot%202025-03-23%20at%2010.13.24%E2%80%AFam.png?Expires=1837305854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dnLoI0a1kcESzxBJzSbkHlMJRGowsDpGChQCoHNqzkDHjaYe7F0rL5InOKjd4Vw2jiaV0HrXEUo77SlZUPDwA2Y~N4xp5~aUoQtSkhENhWBag9HxIEezGM2rVgRrZBSk2-JE0JdopicE9ww5FooccI8R~~CrY6b7sCIKnpOEY2iHCWKaGVpJGtkCFD9Vm0sQSWoUsXXHS4W~NjuZvEEyuB3Y--J~aAlZPTCKDWd8G94KjxwtigqqUZUUPfv2J~sdMMheggtQNLRccQdzN6FKwBn7Vdr56NrjJMeDLncPv0q0FlvVn-0z~Ho3FvguTz-8glX3I2cr7lPCgFA-SGCp9A__"  />
+  <img height="200" src="https://media-hosting.imagekit.io//ba6fba204b3a4416/Screenshot%202025-03-23%20at%2010.13.24%E2%80%AFam.png?Expires=1837305854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dnLoI0a1kcESzxBJzSbkHlMJRGowsDpGChQCoHNqzkDHjaYe7F0rL5InOKjd4Vw2jiaV0HrXEUo77SlZUPDwA2Y~N4xp5~aUoQtSkhENhWBag9HxIEezGM2rVgRrZBSk2-JE0JdopicE9ww5FooccI8R~~CrY6b7sCIKnpOEY2iHCWKaGVpJGtkCFD9Vm0sQSWoUsXXHS4W~NjuZvEEyuB3Y--J~aAlZPTCKDWd8G94KjxwtigqqUZUUPfv2J~sdMMheggtQNLRccQdzN6FKwBn7Vdr56NrjJMeDLncPv0q0FlvVn-0z~Ho3FvguTz-8glX3I2cr7lPCgFA-SGCp9A__"  />
 </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 <h1 align="center">Hi 👋, I'm Yu Hao Huang</h1>
 <h3 align="center">A passionate designer and developer building digital products</h3>
