@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yu Hao Huang</h1>
 <h3 align="center">A passionate designer and developer building digital products</h3>
 
-<img align="right" height="220" src="https://media-hosting.imagekit.io//ba6fba204b3a4416/Screenshot%202025-03-23%20at%2010.13.24%E2%80%AFam.png?Expires=1837305854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dnLoI0a1kcESzxBJzSbkHlMJRGowsDpGChQCoHNqzkDHjaYe7F0rL5InOKjd4Vw2jiaV0HrXEUo77SlZUPDwA2Y~N4xp5~aUoQtSkhENhWBag9HxIEezGM2rVgRrZBSk2-JE0JdopicE9ww5FooccI8R~~CrY6b7sCIKnpOEY2iHCWKaGVpJGtkCFD9Vm0sQSWoUsXXHS4W~NjuZvEEyuB3Y--J~aAlZPTCKDWd8G94KjxwtigqqUZUUPfv2J~sdMMheggtQNLRccQdzN6FKwBn7Vdr56NrjJMeDLncPv0q0FlvVn-0z~Ho3FvguTz-8glX3I2cr7lPCgFA-SGCp9A__"  />
+<img align="right" height="200" src="https://media-hosting.imagekit.io//ba6fba204b3a4416/Screenshot%202025-03-23%20at%2010.13.24%E2%80%AFam.png?Expires=1837305854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dnLoI0a1kcESzxBJzSbkHlMJRGowsDpGChQCoHNqzkDHjaYe7F0rL5InOKjd4Vw2jiaV0HrXEUo77SlZUPDwA2Y~N4xp5~aUoQtSkhENhWBag9HxIEezGM2rVgRrZBSk2-JE0JdopicE9ww5FooccI8R~~CrY6b7sCIKnpOEY2iHCWKaGVpJGtkCFD9Vm0sQSWoUsXXHS4W~NjuZvEEyuB3Y--J~aAlZPTCKDWd8G94KjxwtigqqUZUUPfv2J~sdMMheggtQNLRccQdzN6FKwBn7Vdr56NrjJMeDLncPv0q0FlvVn-0z~Ho3FvguTz-8glX3I2cr7lPCgFA-SGCp9A__"  />
 
 - 🌱 I’m currently learning **🦜LangChain**
 
@@ -24,7 +24,6 @@
   <a href="https://sass-lang.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" /></a>
   <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" height="30" alt="tailwindcss logo" /></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /></a>
-  <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></a>
   <a href="https://nodejs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></a>
   <a href="https://expressjs.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" /></a>
   <a href="https://nestjs.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" /></a>
