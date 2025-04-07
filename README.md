@@ -20,7 +20,7 @@
   <a href="https://d3js.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" alt="d3js logo" /></a>
   <a href="https://www.chartjs.org/" rel="nofollow"><img src="https://www.chartjs.org/media/logo-title.svg" height="30" alt="chartjs logo" /></a>
   <a href="https://sass-lang.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" /></a>
-  <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" height="30" alt="tailwindcss logo" /></a>
+  <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="24" alt="tailwindcss logo" /></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /></a>
   <a href="https://nodejs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></a>
   <a href="https://expressjs.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" /></a>
