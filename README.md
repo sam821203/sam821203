@@ -30,7 +30,7 @@ Product-oriented Frontend / Full-Stack Engineer
 
 </div>
 
-<h3 align="left">Backend & System Integration</h3>
+<h3 align="left">Backend & AI Integration</h3>
 
 <div align="left" style="background-color:#f6f8fa; padding:12px 16px; border-radius:8px; margin-bottom:16px;">
 
@@ -41,15 +41,6 @@ Product-oriented Frontend / Full-Stack Engineer
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" /></a>
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" /></a>
 <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" /></a>
-
-</div>
-
-<h3 align="left">AI Integration</h3>
-
-<div align="left" style="background-color:#f6f8fa; padding:12px 16px; border-radius:8px;">
-
 <a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
 <a href="https://www.langchain.com/" rel="nofollow"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="30" alt="langchain logo" /></a>
-
 </div>
-
