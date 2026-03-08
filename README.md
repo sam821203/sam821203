@@ -4,7 +4,7 @@
 Product-oriented Frontend / Full-Stack Engineer
 </h3>
 
-- 🏦 Interested in **Enterprise Systems / E-commerce**
+- 모 Interested in **Real-Time Monitoring Systems & Data Visualization**
  
 - 🧩 Experienced in **building long-term product systems**
  
@@ -27,6 +27,8 @@ Product-oriented Frontend / Full-Stack Engineer
 <a href="https://www.chartjs.org/"><img src="https://www.chartjs.org/media/logo-title.svg" height="30" /></a>
 <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" /></a>
 <a href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" /></a>
+<a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
+<a href="https://www.langchain.com/" rel="nofollow"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="30" alt="langchain logo" /></a>
 <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" /></a>
 <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" /></a>
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" /></a>
@@ -34,7 +36,5 @@ Product-oriented Frontend / Full-Stack Engineer
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" /></a>
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" /></a>
 <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" /></a>
-<a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
-<a href="https://www.langchain.com/" rel="nofollow"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="30" alt="langchain logo" /></a>
 </div>
 
