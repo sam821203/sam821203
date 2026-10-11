@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/sam821203">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Product-oriented+Frontend+Engineer;Real-Time+Monitoring+%26+Data+Visualization;Building+UIs+that+last+for+the+long+run" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13C2C2&center=true&vCenter=true&width=600&lines=Product-oriented+Frontend+Engineer;Real-Time+Monitoring+%26+Data+Visualization;Building+UIs+that+last+for+the+long+run" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:sam821203@yahoo.com.tw"><img src="https://img.shields.io/badge/Email-sam821203%40yahoo.com.tw-0072C6?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sam821203&style=flat-square&color=3B82F6&label=Profile+views" alt="Profile views" />
+  <a href="mailto:sam821203@yahoo.com.tw"><img src="https://img.shields.io/badge/Email-sam821203%40yahoo.com.tw-13C2C2?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="center">Product-oriented Frontend Engineer</h3>
