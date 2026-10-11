@@ -15,10 +15,10 @@
 
 ## 🙋 About Me
 
-Frontend engineer who likes turning messy real-time data into dashboards people actually enjoy using.
+Frontend engineer who likes turning messy data into dashboards people actually enjoy using.
 
-- 🏭 Lately: monitoring tools for semiconductor fabs (wafers, lots, and finding where things get stuck)
-- 🗺️ Also built live maps for drones and radiation safety teams
+- 🏭 Lately: an SRM-style platform for tracking equipment supplier compliance (data checks, scoring, KPI dashboards and alerts)
+- 📡 Before that: real-time monitoring for semiconductor fabs, drones and radiation safety teams
 - ☕ Into clean UI, good charts, and code that's easy to change later
 - 📫 Say hi at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
