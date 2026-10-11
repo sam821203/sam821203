@@ -15,11 +15,10 @@
 
 ## 🙋 About Me
 
-Frontend engineer who likes turning messy data into dashboards people actually enjoy using.
+Frontend engineer who turns messy data into dashboards people enjoy using.
 
-- 🏭 Lately: an SRM-style platform for tracking equipment supplier compliance (data checks, scoring, KPI dashboards and alerts)
-- 📡 Before that: real-time monitoring for semiconductor fabs, drones and radiation safety teams
-- ☕ Into clean UI, good charts, and code that's easy to change later
+- 🏭 Lately: building a supplier management (SRM) platform
+- ☕ Into clean UI, good charts and maintainable code
 - 📫 Say hi at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
 ## 🛠️ Tech Stack
