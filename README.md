@@ -15,12 +15,12 @@
 
 ## 🙋 About Me
 
-Senior frontend engineer who builds monitoring and data-heavy platforms for industrial and enterprise teams. I care most about the details users feel: clear interfaces, solid architecture, and software that stays easy to change as the business grows.
+Frontend engineer who likes turning messy real-time data into dashboards people actually enjoy using.
 
-- 🏭 Built a **real-time monitoring platform for semiconductor fabs**, tracking Wafer / Lot requests across sites and using Pass / Fail and duration metrics to pinpoint production bottlenecks
-- 📋 Built an **equipment supplier compliance platform** with data validation, compliance scoring, KPI dashboards and automated alerts
-- 🛰️ Also delivered live monitoring for **drone fleet telemetry** and **radiation protection operations** with map-based tracking and geofencing
-- 📫 Reach me at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
+- 🏭 Lately: monitoring tools for semiconductor fabs (wafers, lots, and finding where things get stuck)
+- 🗺️ Also built live maps for drones and radiation safety teams
+- ☕ Into clean UI, good charts, and code that's easy to change later
+- 📫 Say hi at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
 ## 🛠️ Tech Stack
 
