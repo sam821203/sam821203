@@ -17,9 +17,9 @@
 
 Senior frontend engineer who builds products meant to last. I've spent years shipping and maintaining long-running web applications, and I care most about the details users feel: clear interfaces, solid architecture, and software that stays easy to change as the business grows.
 
-- 📊 Focused on **real-time monitoring systems and data visualization dashboards**
-- 🧭 Turning complex data and workflows into **interfaces people can use with confidence**
-- 🤝 Working closely with product and design teams from idea to production
+- 🏭 Focused on **real-time monitoring for manufacturing**: equipment status, alarms and production data on live dashboards
+- 📊 Turning high-volume process data into **charts and views engineers can act on quickly**
+- 🤝 Working closely with engineers and stakeholders from idea to production
 - 📫 Reach me at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
 ## 🛠️ Tech Stack
