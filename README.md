@@ -15,11 +15,11 @@
 
 ## 🙋 About Me
 
-- 💻 Frontend engineer focused on **product quality, maintainable architecture and great user experience**
-- 📊 Interested in **Real-Time Monitoring Systems & Data Visualization** (D3.js, Chart.js, live dashboards)
-- 🧩 Experienced in **building long-term product systems** that keep evolving with the business
-- ⚡ Care about **performance, component design and developer experience** across React, Vue and Angular
-- 🤖 Exploring **AI-powered frontend experiences** with LangChain and Python
+Senior frontend engineer who builds products meant to last. I've spent years shipping and maintaining long-running web applications, and I care most about the details users feel: clear interfaces, solid architecture, and software that stays easy to change as the business grows.
+
+- 📊 Focused on **real-time monitoring systems and data visualization dashboards**
+- 🧭 Turning complex data and workflows into **interfaces people can use with confidence**
+- 🤝 Working closely with product and design teams from idea to production
 - 📫 Reach me at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
 ## 🛠️ Tech Stack
@@ -69,15 +69,4 @@
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" /></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" /></a>&nbsp;
 <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" title="Firebase" /></a>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam821203&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam821203&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sam821203&hide_border=true&theme=transparent&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
 </p>
