@@ -18,7 +18,6 @@ Frontend engineer who turns messy data into dashboards people enjoy using.
 
 - 🏭 Lately: building a supplier management (SRM) platform
 - ☕ Into clean UI, good charts and maintainable code
-- 📫 Say hi at **[sam821203@yahoo.com.tw](mailto:sam821203@yahoo.com.tw)**
 
 ## 🛠️ Tech Stack
 
