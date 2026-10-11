@@ -37,7 +37,6 @@ Frontend engineer who turns messy data into dashboards people enjoy using.
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
 <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="36" alt="D3.js" title="D3.js" /></a>&nbsp;
 <a href="https://www.chartjs.org/"><img src="https://www.chartjs.org/media/logo-title.svg" height="36" alt="Chart.js" title="Chart.js" /></a>&nbsp;
-<a href="https://recharts.org/"><img src="https://github.com/recharts.png" height="36" alt="Recharts" title="Recharts" /></a>&nbsp;
 <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="36" alt="Vite" title="Vite" /></a>&nbsp;
 <a href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="36" alt="Webpack" title="Webpack" /></a>
 </p>
